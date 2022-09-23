@@ -2,8 +2,7 @@
 ```
 You are given two integer matrices A(having M X N size) and B(having N X P). You have to multiply matrix A with B and return the resultant matrix. (i.e. return the matrix AB).
 ```
-![](Screenshot 2022-09-23 at 8.18.04 PM.png)
-
+![](Problem.png)
 
 
 ###Problem Constraints
@@ -58,7 +57,7 @@ A = [[1, 1]]            B = [[2],
 
 ###Example Explanation
 ####Explanation 1:
-![](Screenshot 2022-09-23 at 8.18.18 PM.png)
+![](Explanation_1.png)
 ####Explanation 2:
 
 ```
