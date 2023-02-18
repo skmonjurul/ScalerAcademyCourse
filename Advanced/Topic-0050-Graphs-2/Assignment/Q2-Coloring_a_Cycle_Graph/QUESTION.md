@@ -57,13 +57,13 @@ Return an single integer denoting the minimum number of colors required to color
 ###Example Explanation
 ####Explanation 1:
 
-
+![](Explanation-1.png)
 ```
 Color required = 3
 ```
 ####Explanation 2:
 
-
+![](Explanation-2.png)
 ```
 Color required = 2
 ```
