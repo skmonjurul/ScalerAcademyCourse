@@ -9,11 +9,11 @@ public class Main {
         // E.g. 'Scanner' for input & 'System.out' for output
 
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int test = sc.nextInt();
 
-        while(n >= 1) {
+        while(test >= 1) {
             System.out.println(isPerfectNumber(sc.nextInt()));
-            n--;
+            test--;
         }
 
     }
